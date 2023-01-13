@@ -1,4 +1,4 @@
-
+# what the fuck
 with open('1.in', 'r') as f:
     lines = f.read().splitlines()
 
